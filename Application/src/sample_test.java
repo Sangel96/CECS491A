@@ -18,3 +18,4 @@ public class sample_test {
             System.out.println(num + " is not a prime number.");
     }
 }
+// 5/1 sam pushed code
