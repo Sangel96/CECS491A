@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="AWS_RDS_MYSQL" uuid="878183f8-342b-496a-9e0b-73ea312bd860">
+    <data-source source="LOCAL" name="@database-491a.c4akoex2hmcf.us-east-2.rds.amazonaws.com" uuid="27658c84-cff5-40fa-89b0-aae8d4fa289a">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://database-491a.c4akoex2hmcf.us-east-2.rds.amazonaws.com:3306</jdbc-url>
-    <data-source source="LOCAL" name="491 DB" uuid="ea0dd088-d4ff-4af1-a708-3359b224cb99">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://database-491a.c4akoex2hmcf.us-east-2.rds.amazonaws.com:3306/authentication</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
